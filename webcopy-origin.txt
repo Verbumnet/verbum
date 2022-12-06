@@ -1,0 +1,1028 @@
+Uri: https://fonts.googleapis.com/css?family=Asap:400,400i,500,600,700&amp;display=swap
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/asap/v26/KFOMCniXp96ayz4E7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\s\asap\v26\KFOMCniXp96ayz4E7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/asap/v26/KFOOCniXp96a4Tc2DaTeuDAoKsE617JFc49knOIYdjTYdaIcKWmT.ttf
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\s\asap\v26\KFOOCniXp96a4Tc2DaTeuDAoKsE617JFc49knOIYdjTYdaIcKWmT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/asap/v26/KFOOCniXp96a4Tc2DaTeuDAoKsE617JFc49knOIYdjTYkqUcKWmT.ttf
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\s\asap\v26\KFOOCniXp96a4Tc2DaTeuDAoKsE617JFc49knOIYdjTYkqUcKWmT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/asap/v26/KFOOCniXp96a4Tc2DaTeuDAoKsE617JFc49knOIYdjTYoKUcKWmT.ttf
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\s\asap\v26\KFOOCniXp96a4Tc2DaTeuDAoKsE617JFc49knOIYdjTYoKUcKWmT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/asap/v26/KFOOCniXp96a4Tc2DaTeuDAoKsE617JFc49knOIYdjTYTKIcKWmT.ttf
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\s\asap\v26\KFOOCniXp96a4Tc2DaTeuDAoKsE617JFc49knOIYdjTYTKIcKWmT.ttf
+Content Type: font/ttf
+
+Uri: https://verbumnetworks.net/
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\index.htm
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/assets/
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\index.htm
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/assets/?C=D;O=A
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\index-4.htm
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/assets/?C=D;O=D
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\index-8.htm
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/assets/?C=M;O=A
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\index-2.htm
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/assets/?C=M;O=D
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\index-6.htm
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/assets/?C=N;O=A
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\index-5.htm
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/assets/?C=N;O=D
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\index-1.htm
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/assets/?C=S;O=A
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\index-3.htm
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/assets/?C=S;O=D
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\index-7.htm
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/assets/css/animate.css
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\css\animate.css
+Content Type: text/css
+
+Uri: https://verbumnetworks.net/assets/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://verbumnetworks.net/assets/css/flaticon.css
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\css\flaticon.css
+Content Type: text/css
+
+Uri: https://verbumnetworks.net/assets/css/jquery.fancybox.css
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\css\jquery.fancybox.css
+Content Type: text/css
+
+Uri: https://verbumnetworks.net/assets/css/owl.carousel.css
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\css\owl.carousel.css
+Content Type: text/css
+
+Uri: https://verbumnetworks.net/assets/css/owl.theme.css
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\css\owl.theme.css
+Content Type: text/css
+
+Uri: https://verbumnetworks.net/assets/css/owl.transitions.css
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\css\owl.transitions.css
+Content Type: text/css
+
+Uri: https://verbumnetworks.net/assets/css/owl.video.play.png
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\css\owl.video.play.png
+Content Type: image/png
+
+Uri: https://verbumnetworks.net/assets/css/slick-theme.css
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\css\slick-theme.css
+Content Type: text/css
+
+Uri: https://verbumnetworks.net/assets/css/slick.css
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\css\slick.css
+Content Type: text/css
+
+Uri: https://verbumnetworks.net/assets/css/style.css
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\css\style.css
+Content Type: text/css
+
+Uri: https://verbumnetworks.net/assets/css/swiper.min.css
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://verbumnetworks.net/assets/css/themify-icons.css
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\css\themify-icons.css
+Content Type: text/css
+
+Uri: https://verbumnetworks.net/assets/floating-wpp.css
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\floating-wpp.css
+Content Type: text/css
+
+Uri: https://verbumnetworks.net/assets/floating-wpp.js
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\floating-wpp.js
+Content Type: application/javascript
+
+Uri: https://verbumnetworks.net/assets/floating-wpp.min.css
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\floating-wpp.min.css
+Content Type: text/css
+
+Uri: https://verbumnetworks.net/assets/floating-wpp.min.js
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\floating-wpp.min.js
+Content Type: application/javascript
+
+Uri: https://verbumnetworks.net/assets/fonts/Flaticon.eot
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\fonts\Flaticon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://verbumnetworks.net/assets/fonts/Flaticon.svg
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\fonts\Flaticon.svg
+Content Type: image/svg+xml
+
+Uri: https://verbumnetworks.net/assets/fonts/Flaticon.ttf
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\fonts\Flaticon.ttf
+Content Type: font/ttf
+
+Uri: https://verbumnetworks.net/assets/fonts/Flaticon.woff
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\fonts\Flaticon.woff
+Content Type: font/woff
+
+Uri: https://verbumnetworks.net/assets/fonts/Flaticon.woff2
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\fonts\Flaticon.woff2
+Content Type: font/woff2
+
+Uri: https://verbumnetworks.net/assets/fonts/Flaticond41d.eot?
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\fonts\Flaticond41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://verbumnetworks.net/assets/fonts/glyphicons-halflings-regular.eot
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://verbumnetworks.net/assets/fonts/glyphicons-halflings-regular.svg
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://verbumnetworks.net/assets/fonts/glyphicons-halflings-regular.ttf
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\fonts\glyphicons-halflings-regular.ttf
+Content Type: font/ttf
+
+Uri: https://verbumnetworks.net/assets/fonts/glyphicons-halflings-regular.woff
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\fonts\glyphicons-halflings-regular.woff
+Content Type: font/woff
+
+Uri: https://verbumnetworks.net/assets/fonts/glyphicons-halflings-regular.woff2
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\fonts\glyphicons-halflings-regular.woff2
+Content Type: font/woff2
+
+Uri: https://verbumnetworks.net/assets/fonts/glyphicons-halflings-regulard41d.eot?
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\fonts\glyphicons-halflings-regulard41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://verbumnetworks.net/assets/fonts/slick.eot
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\fonts\slick.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://verbumnetworks.net/assets/fonts/slick.svg
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\fonts\slick.svg
+Content Type: image/svg+xml
+
+Uri: https://verbumnetworks.net/assets/fonts/slick.ttf
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\fonts\slick.ttf
+Content Type: font/ttf
+
+Uri: https://verbumnetworks.net/assets/fonts/slick.woff
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\fonts\slick.woff
+Content Type: font/woff
+
+Uri: https://verbumnetworks.net/assets/fonts/slickd41d.eot?
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\fonts\slickd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://verbumnetworks.net/assets/fonts/themify9f24.eot?-fvbane
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\fonts\themify9f24.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://verbumnetworks.net/assets/fonts/themify9f24.svg?-fvbane
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\fonts\themify9f24.svg
+Content Type: image/svg+xml
+
+Uri: https://verbumnetworks.net/assets/fonts/themify9f24.ttf?-fvbane
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\fonts\themify9f24.ttf
+Content Type: font/ttf
+
+Uri: https://verbumnetworks.net/assets/fonts/themify9f24.woff?-fvbane
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\fonts\themify9f24.woff
+Content Type: font/woff
+
+Uri: https://verbumnetworks.net/assets/fonts/themifyd41d.eot?
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\fonts\themifyd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://verbumnetworks.net/assets/icon_png/cctv.png
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\icon_png\cctv.png
+Content Type: image/png
+
+Uri: https://verbumnetworks.net/assets/icon_png/desktop-computer.png
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\icon_png\desktop-computer.png
+Content Type: image/png
+
+Uri: https://verbumnetworks.net/assets/icon_png/global-network.png
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\icon_png\global-network.png
+Content Type: image/png
+
+Uri: https://verbumnetworks.net/assets/icon_png/satellite-dish.png
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\icon_png\satellite-dish.png
+Content Type: image/png
+
+Uri: https://verbumnetworks.net/assets/icon_png/training.png
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\icon_png\training.png
+Content Type: image/png
+
+Uri: https://verbumnetworks.net/assets/images/about-dot.png
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\images\about-dot.png
+Content Type: image/png
+
+Uri: https://verbumnetworks.net/assets/images/about-shape.png
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\images\about-shape.png
+Content Type: image/png
+
+Uri: https://verbumnetworks.net/assets/images/page-title.jpg
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\images\page-title.jpg
+Content Type: image/jpeg
+
+Uri: https://verbumnetworks.net/assets/images/testimonials/quote.png
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\images\testimonials\quote.png
+Content Type: image/png
+
+Uri: https://verbumnetworks.net/assets/img/
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\img\index.htm
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/assets/img/-cf79ae6a158798593877931572111015587.jpg
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\img\-cf79ae6a158798593877931572111015587.jpg
+Content Type: image/jpeg
+
+Uri: https://verbumnetworks.net/assets/img/-cf866614158868653292467181010784943.jpg
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\img\-cf866614158868653292467181010784943.jpg
+Content Type: image/jpeg
+
+Uri: https://verbumnetworks.net/assets/img/?C=D;O=A
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\img\index-4.htm
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/assets/img/?C=D;O=D
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\img\index-8.htm
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/assets/img/?C=M;O=A
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\img\index-2.htm
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/assets/img/?C=M;O=D
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\img\index-6.htm
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/assets/img/?C=N;O=A
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\img\index-5.htm
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/assets/img/?C=N;O=D
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\img\index-1.htm
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/assets/img/?C=S;O=A
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\img\index-3.htm
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/assets/img/?C=S;O=D
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\img\index-7.htm
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/assets/img/about2.jpg
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\img\about2.jpg
+Content Type: image/jpeg
+
+Uri: https://verbumnetworks.net/assets/img/brand/VerbumIcon.png
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\img\brand\VerbumIcon.png
+Content Type: image/png
+
+Uri: https://verbumnetworks.net/assets/img/brand/VerbumNetworksLogo2.png
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\img\brand\VerbumNetworksLogo2.png
+Content Type: image/png
+
+Uri: https://verbumnetworks.net/assets/img/busycompuser.jpg
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\img\busycompuser.jpg
+Content Type: image/jpeg
+
+Uri: https://verbumnetworks.net/assets/img/cctvBanner1.jpg
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\img\cctvBanner1.jpg
+Content Type: image/jpeg
+
+Uri: https://verbumnetworks.net/assets/img/cctvBanner2.jpg
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\img\cctvBanner2.jpg
+Content Type: image/jpeg
+
+Uri: https://verbumnetworks.net/assets/img/cicotEbook.png
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\img\cicotEbook.png
+Content Type: image/png
+
+Uri: https://verbumnetworks.net/assets/img/coding.jpg
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\img\coding.jpg
+Content Type: image/jpeg
+
+Uri: https://verbumnetworks.net/assets/img/excited.jpg
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\img\excited.jpg
+Content Type: image/jpeg
+
+Uri: https://verbumnetworks.net/assets/img/femme-affaires-gai-faire-geste-gagnant.jpg
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\img\femme-affaires-gai-faire-geste-gagnant.jpg
+Content Type: image/jpeg
+
+Uri: https://verbumnetworks.net/assets/img/hd-dvr.png
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\img\hd-dvr.png
+Content Type: image/png
+
+Uri: https://verbumnetworks.net/assets/img/hd-nvr.png
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\img\hd-nvr.png
+Content Type: image/png
+
+Uri: https://verbumnetworks.net/assets/img/pexels-photo-1445465.jpeg
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\img\pexels-photo-1445465.jpeg
+Content Type: image/jpeg
+
+Uri: https://verbumnetworks.net/assets/img/pexels-photo-207691.jpeg
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\img\pexels-photo-207691.jpeg
+Content Type: image/jpeg
+
+Uri: https://verbumnetworks.net/assets/img/pexels-photo-3059745.jpeg
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\img\pexels-photo-3059745.jpeg
+Content Type: image/jpeg
+
+Uri: https://verbumnetworks.net/assets/img/pexels-photo-392018.jpeg
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\img\pexels-photo-392018.jpeg
+Content Type: image/jpeg
+
+Uri: https://verbumnetworks.net/assets/img/pexels-photo-574073.jpeg
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\img\pexels-photo-574073.jpeg
+Content Type: image/jpeg
+
+Uri: https://verbumnetworks.net/assets/img/portrait-kids-using-laptop-digital-tablet-stairs_107420-35636.jpg
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\img\portrait-kids-using-laptop-digital-tablet-stairs_107420-35636.jpg
+Content Type: image/jpeg
+
+Uri: https://verbumnetworks.net/assets/img/profile/bukky.jpg
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\img\profile\bukky.jpg
+Content Type: image/jpeg
+
+Uri: https://verbumnetworks.net/assets/img/profile/chibuke.jpg
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\img\profile\chibuke.jpg
+Content Type: image/jpeg
+
+Uri: https://verbumnetworks.net/assets/img/profile/fehinto.jpg
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\img\profile\fehinto.jpg
+Content Type: image/jpeg
+
+Uri: https://verbumnetworks.net/assets/img/profile/francesca.jpg
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\img\profile\francesca.jpg
+Content Type: image/jpeg
+
+Uri: https://verbumnetworks.net/assets/img/profile/frpeter.jpg
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\img\profile\frpeter.jpg
+Content Type: image/jpeg
+
+Uri: https://verbumnetworks.net/assets/img/profile/frraphael.jpg
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\img\profile\frraphael.jpg
+Content Type: image/jpeg
+
+Uri: https://verbumnetworks.net/assets/img/profile/jeremiah.jpg
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\img\profile\jeremiah.jpg
+Content Type: image/jpeg
+
+Uri: https://verbumnetworks.net/assets/img/profile/lanre.jpg
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\img\profile\lanre.jpg
+Content Type: image/jpeg
+
+Uri: https://verbumnetworks.net/assets/img/profile/mario.jpg
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\img\profile\mario.jpg
+Content Type: image/jpeg
+
+Uri: https://verbumnetworks.net/assets/img/profile/opecoded.jpg
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\img\profile\opecoded.jpg
+Content Type: image/jpeg
+
+Uri: https://verbumnetworks.net/assets/img/profile/stephen.jpg
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\img\profile\stephen.jpg
+Content Type: image/jpeg
+
+Uri: https://verbumnetworks.net/assets/img/schoolboy-sitting-chair-using-laptop-school_107420-35537.jpg
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\img\schoolboy-sitting-chair-using-laptop-school_107420-35537.jpg
+Content Type: image/jpeg
+
+Uri: https://verbumnetworks.net/assets/img/schoolboy-sitting-chair-using-laptop-school_107420-35566.jpg
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\img\schoolboy-sitting-chair-using-laptop-school_107420-35566.jpg
+Content Type: image/jpeg
+
+Uri: https://verbumnetworks.net/assets/img/slides/ebook.jpg
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\img\slides\ebook.jpg
+Content Type: image/jpeg
+
+Uri: https://verbumnetworks.net/assets/img/slides/intercomBanner.jpg
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\img\slides\intercomBanner.jpg
+Content Type: image/jpeg
+
+Uri: https://verbumnetworks.net/assets/img/slides/slide1.jpg
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\img\slides\slide1.jpg
+Content Type: image/jpeg
+
+Uri: https://verbumnetworks.net/assets/img/slides/slide3.jpg
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\img\slides\slide3.jpg
+Content Type: image/jpeg
+
+Uri: https://verbumnetworks.net/assets/img/slides/slide6.jpg
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\img\slides\slide6.jpg
+Content Type: image/jpeg
+
+Uri: https://verbumnetworks.net/assets/img/standalone.jpg
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\img\standalone.jpg
+Content Type: image/jpeg
+
+Uri: https://verbumnetworks.net/assets/img/vsatBanner1.jpg
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\img\vsatBanner1.jpg
+Content Type: image/jpeg
+
+Uri: https://verbumnetworks.net/assets/img/wifi-camera.jpeg
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\img\wifi-camera.jpeg
+Content Type: image/jpeg
+
+Uri: https://verbumnetworks.net/assets/img/wirelessBanner.jpg
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\img\wirelessBanner.jpg
+Content Type: image/jpeg
+
+Uri: https://verbumnetworks.net/assets/img/wirelessBanner2.jpg
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\img\wirelessBanner2.jpg
+Content Type: image/jpeg
+
+Uri: https://verbumnetworks.net/assets/jquery-3.3.1.min.js
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\jquery-3.3.1.min.js
+Content Type: application/javascript
+
+Uri: https://verbumnetworks.net/assets/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://verbumnetworks.net/assets/js/jquery-plugin-collection.js
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\js\jquery-plugin-collection.js
+Content Type: application/javascript
+
+Uri: https://verbumnetworks.net/assets/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://verbumnetworks.net/assets/js/script.js
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\js\script.js
+Content Type: application/javascript
+
+Uri: https://verbumnetworks.net/assets/uploads/video/eLearningVideo.mp4
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\uploads\video\eLearningVideo.mp4
+Content Type: video/mp4
+
+Uri: https://verbumnetworks.net/assets/uploads/video/verbumVideo.mp4
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\assets\uploads\video\verbumVideo.mp4
+Content Type: video/mp4
+
+Uri: https://verbumnetworks.net/blogimage/2024067244.png
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\blogimage\2024067244.png
+Content Type: image/png
+
+Uri: https://verbumnetworks.net/blogimage/392998854.jpeg
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\blogimage\392998854.jpeg
+Content Type: image/jpeg
+
+Uri: https://verbumnetworks.net/blogimage/813681924.jpg
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\blogimage\813681924.jpg
+Content Type: image/jpeg
+
+Uri: https://verbumnetworks.net/blogimage/child_care.jpg
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\blogimage\child_care.jpg
+Content Type: image/jpeg
+
+Uri: https://verbumnetworks.net/blogimage/colorstech_(1).jpg
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\blogimage\colorstech_(1).jpg
+Content Type: image/jpeg
+
+Uri: https://verbumnetworks.net/blogimage/computer-health.jpeg
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\blogimage\computer-health.jpeg
+Content Type: image/jpeg
+
+Uri: https://verbumnetworks.net/blogimage/covid19.jpg
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\blogimage\covid19.jpg
+Content Type: image/jpeg
+
+Uri: https://verbumnetworks.net/blogimage/cr8.jpg
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\blogimage\cr8.jpg
+Content Type: image/jpeg
+
+Uri: https://verbumnetworks.net/blogimage/difference.jpeg
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\blogimage\difference.jpeg
+Content Type: image/jpeg
+
+Uri: https://verbumnetworks.net/blogimage/hustle.jpg
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\blogimage\hustle.jpg
+Content Type: image/jpeg
+
+Uri: https://verbumnetworks.net/blogimage/INSECURITY_LOGO.jpeg
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\blogimage\INSECURITY_LOGO.jpeg
+Content Type: image/jpeg
+
+Uri: https://verbumnetworks.net/blogimage/life_for_blog.jpeg
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\blogimage\life_for_blog.jpeg
+Content Type: image/jpeg
+
+Uri: https://verbumnetworks.net/blogimage/mphone.png
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\blogimage\mphone.png
+Content Type: image/png
+
+Uri: https://verbumnetworks.net/blogimage/question.jpg
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\blogimage\question.jpg
+Content Type: image/jpeg
+
+Uri: https://verbumnetworks.net/blogimage/tech-guy-appearance.jpg
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\blogimage\tech-guy-appearance.jpg
+Content Type: image/jpeg
+
+Uri: https://verbumnetworks.net/blogimage/tech-or-women.png
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\blogimage\tech-or-women.png
+Content Type: image/png
+
+Uri: https://verbumnetworks.net/blogimage/troubleshoot-a-computer-main-768x398.jpg
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\blogimage\troubleshoot-a-computer-main-768x398.jpg
+Content Type: image/jpeg
+
+Uri: https://verbumnetworks.net/blogpost.php?id=27
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\blogpost.php-22.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/blogpost.php?id=33
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\blogpost.php-19.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/blogpost.php?id=35
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\blogpost.php-21.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/blogpost.php?id=36
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\blogpost.php-11.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/blogpost.php?id=38
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\blogpost.php-4.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/blogpost.php?id=40
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\blogpost.php-20.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/blogpost.php?id=43
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\blogpost.php-18.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/blogpost.php?id=44
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\blogpost.php-17.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/blogpost.php?id=45
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\blogpost.php-16.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/blogpost.php?id=46
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\blogpost.php-5.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/blogpost.php?id=48
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\blogpost.php-15.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/blogpost.php?id=49
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\blogpost.php-10.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/blogpost.php?id=51
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\blogpost.php-14.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/blogpost.php?id=53
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\blogpost.php-6.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/blogpost.php?id=55
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\blogpost.php-13.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/blogpost.php?id=60
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\blogpost.php-7.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/blogpost.php?id=62
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\blogpost.php-8.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/blogpost.php?id=64
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\blogpost.php-12.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/blogpost.php?id=69
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\blogpost.php-3.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/blogpost.php?id=7
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\blogpost.php-9.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/blogpost.php?id=70
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\blogpost.php-2.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/blogpost.php?id=71
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\blogpost.php-1.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/blogpost.php?id=72
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\blogpost.php.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/blogs.php
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\blogs.php.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/blogs.php?page=1
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\blogs.php-5.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/blogs.php?page=2
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\blogs.php-1.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/blogs.php?page=3
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\blogs.php-2.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/blogs.php?page=4
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\blogs.php-3.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/blogs.php?page=5
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\blogs.php-4.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/blogs.php?page=6
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\blogs.php-6.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/cctv-surveillance-intercom.php
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\cctv-surveillance-intercom.php.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/cicot.php
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\cicot.php.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/contact.php
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\contact.php.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/course.php?id=1
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\course.php-11.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/course.php?id=11
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\course.php-3.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/course.php?id=12
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\course.php-2.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/course.php?id=14
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\course.php-1.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/course.php?id=15
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\course.php.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/course.php?id=2
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\course.php-10.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/course.php?id=3
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\course.php-9.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/course.php?id=5
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\course.php-8.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/course.php?id=6
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\course.php-7.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/course.php?id=7
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\course.php-6.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/course.php?id=8
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\course.php-5.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/course.php?id=9
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\course.php-4.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/courseimage/10.jpg
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\courseimage\10.jpg
+Content Type: image/jpeg
+
+Uri: https://verbumnetworks.net/courseimage/11.jpg
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\courseimage\11.jpg
+Content Type: image/jpeg
+
+Uri: https://verbumnetworks.net/courseimage/12.jpg
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\courseimage\12.jpg
+Content Type: image/jpeg
+
+Uri: https://verbumnetworks.net/courseimage/13.jpg
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\courseimage\13.jpg
+Content Type: image/jpeg
+
+Uri: https://verbumnetworks.net/courseimage/2.jpg
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\courseimage\2.jpg
+Content Type: image/jpeg
+
+Uri: https://verbumnetworks.net/courseimage/3.jpg
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\courseimage\3.jpg
+Content Type: image/jpeg
+
+Uri: https://verbumnetworks.net/courseimage/4.jpg
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\courseimage\4.jpg
+Content Type: image/jpeg
+
+Uri: https://verbumnetworks.net/courseimage/5.jpg
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\courseimage\5.jpg
+Content Type: image/jpeg
+
+Uri: https://verbumnetworks.net/courseimage/7.jpg
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\courseimage\7.jpg
+Content Type: image/jpeg
+
+Uri: https://verbumnetworks.net/courseimage/8.jpg
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\courseimage\8.jpg
+Content Type: image/jpeg
+
+Uri: https://verbumnetworks.net/courseimage/9.jpg
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\courseimage\9.jpg
+Content Type: image/jpeg
+
+Uri: https://verbumnetworks.net/elibrary.php
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\elibrary.php.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/index.php
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\index.php.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/intercom.php
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\intercom.php.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/mission.php
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\mission.php.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/networking-and-wireless-hotspots.php
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\networking-and-wireless-hotspots.php.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/plans.jpg
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\plans.jpg
+Content Type: image/jpeg
+
+Uri: https://verbumnetworks.net/product.php?id=1
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\product.php-7.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/product.php?id=11
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\product.php.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/product.php?id=2
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\product.php-6.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/product.php?id=3
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\product.php-5.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/product.php?id=4
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\product.php-4.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/product.php?id=5
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\product.php-3.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/product.php?id=6
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\product.php-2.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/product.php?id=7
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\product.php-1.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/productimage/customizedweb.jpg
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\productimage\customizedweb.jpg
+Content Type: image/jpeg
+
+Uri: https://verbumnetworks.net/productimage/hospitalportal.jpeg
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\productimage\hospitalportal.jpeg
+Content Type: image/jpeg
+
+Uri: https://verbumnetworks.net/productimage/ministryportal.png
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\productimage\ministryportal.png
+Content Type: image/png
+
+Uri: https://verbumnetworks.net/productimage/parishsoftware.png
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\productimage\parishsoftware.png
+Content Type: image/png
+
+Uri: https://verbumnetworks.net/productimage/personalweb.jpg
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\productimage\personalweb.jpg
+Content Type: image/jpeg
+
+Uri: https://verbumnetworks.net/productimage/pos.png
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\productimage\pos.png
+Content Type: image/png
+
+Uri: https://verbumnetworks.net/productimage/schoolportal.jpg
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\productimage\schoolportal.jpg
+Content Type: image/jpeg
+
+Uri: https://verbumnetworks.net/profile.php
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\profile.php.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/satellite-internet-access.php
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\satellite-internet-access.php.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/shop.php?id=10
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\shop.php-15.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/shop.php?id=11
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\shop.php-14.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/shop.php?id=12
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\shop.php-13.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/shop.php?id=2
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\shop.php-22.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/shop.php?id=20
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\shop.php-12.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/shop.php?id=21
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\shop.php-11.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/shop.php?id=22
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\shop.php-10.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/shop.php?id=23
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\shop.php-9.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/shop.php?id=24
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\shop.php-8.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/shop.php?id=25
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\shop.php-7.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/shop.php?id=26
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\shop.php-6.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/shop.php?id=27
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\shop.php-5.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/shop.php?id=28
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\shop.php-4.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/shop.php?id=29
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\shop.php-3.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/shop.php?id=3
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\shop.php-21.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/shop.php?id=30
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\shop.php-2.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/shop.php?id=32
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\shop.php-1.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/shop.php?id=33
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\shop.php.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/shop.php?id=4
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\shop.php-20.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/shop.php?id=5
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\shop.php-19.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/shop.php?id=7
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\shop.php-18.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/shop.php?id=8
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\shop.php-17.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/shop.php?id=9
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\shop.php-16.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/shopimage/antivirus.jpg
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\shopimage\antivirus.jpg
+Content Type: image/jpeg
+
+Uri: https://verbumnetworks.net/shopimage/bluetooth_headset.jpg
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\shopimage\bluetooth_headset.jpg
+Content Type: image/jpeg
+
+Uri: https://verbumnetworks.net/shopimage/easy_one_touch_car_mount.jpg
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\shopimage\easy_one_touch_car_mount.jpg
+Content Type: image/jpeg
+
+Uri: https://verbumnetworks.net/shopimage/headset.jpg
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\shopimage\headset.jpg
+Content Type: image/jpeg
+
+Uri: https://verbumnetworks.net/shopimage/kidstablets.jpg
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\shopimage\kidstablets.jpg
+Content Type: image/jpeg
+
+Uri: https://verbumnetworks.net/shopimage/nano-adapter.jpg
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\shopimage\nano-adapter.jpg
+Content Type: image/jpeg
+
+Uri: https://verbumnetworks.net/shopimage/otg_drive.jpg
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\shopimage\otg_drive.jpg
+Content Type: image/jpeg
+
+Uri: https://verbumnetworks.net/shopimage/outdoor_cpe.jpg
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\shopimage\outdoor_cpe.jpg
+Content Type: image/jpeg
+
+Uri: https://verbumnetworks.net/shopimage/router.jpg
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\shopimage\router.jpg
+Content Type: image/jpeg
+
+Uri: https://verbumnetworks.net/shopimage/switch.jpg
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\shopimage\switch.jpg
+Content Type: image/jpeg
+
+Uri: https://verbumnetworks.net/shopimage/wireless_access_point.jpg
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\shopimage\wireless_access_point.jpg
+Content Type: image/jpeg
+
+Uri: https://verbumnetworks.net/trainings.php
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\trainings.php.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/verbumshop.php
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\verbumshop.php.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/web-and-software-development.php
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\web-and-software-development.php.html
+Content Type: text/html
+
+Uri: https://verbumnetworks.net/whoweare.php
+File Name: C:\Downloaded Web Sites\verbumnetworks.net\whoweare.php.html
+Content Type: text/html
+
