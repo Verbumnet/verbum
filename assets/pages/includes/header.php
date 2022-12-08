@@ -66,9 +66,9 @@
                  <div class="col col-md-9">
                      <div class="contact-info clearfix">
                          <ul>
-                             <li><a href="tel:+2348053283400"><i class="ti-mobile"></i> +234-805-328-3400</a></li>
+                             <li><a href="tel:+2348053283400"><i class="ti-mobile"></i> +234-070-3127-2362</a></li>
                              <li><a href="mailto:info@verbumnetworks.net"><i class="ti-email"></i>
-                                     info@verbumnetworks.net</a></li>
+                                     info@verbumnetworksenugu.net</a></li>
                              <li><i class="ti-time"></i> Mon - Fri 9AM - 4PM</li>
                          </ul>
                      </div>
@@ -108,34 +108,42 @@
                          <li class="menu-item-has-children ">
                              <a href="">About Us</a>
                              <ul class="sub-menu">
-                                 <li><a href="whoweare.php.html">Who We Are</a></li>
+                                 <li><a href="whoweare.php.html">ABOUT US</a></li>
                                  <li><a href="mission.php.html">Mission & Philosophy</a></li>
-                                 <li><a href="profile.php.html">Corporate Profile</a></li>
+                                 <li><a href="profile.php.html">TEAM</a></li>
                              </ul>
                          </li>
                          <li class="menu-item-has-children current">
                              <a href="">Services</a>
                              <ul class="sub-menu">
-                                 <li><a href="web-and-software-development.php.html">Web & Software Development</a></li>
-                                 <li><a href="networking-and-wireless-hotspots.php.html">Networking/Wireless Hotspot</a></li>
-                                 <li><a href="satellite-internet-access.php.html">Satellite Internet Access</a></li>
-                                 <li><a href="cctv-surveillance-intercom.php.html">CCTV Camera Installation</a></li>
+                                 <li><a href="../pages/web-and-software-development.php.html">Web & Software Development</a></li>
+                                 <li><a href="../pages/networking-and-wireless-hotspots.php">Networking</a></li>
+                                 <!-- <li><a href="../pages/satellite-internet-access.php.html">Satellite Internet Access</a></li> -->
+                                 <li class="menu-item ">
+                             <a href="../pages/trainings.php">ICT Trainings</a>
+                         </li>
+                         <li><a href="../pages/satellite-internet-access.php">Cafe Services</a></li>
+                                 <!-- <li><a href="cctv-surveillance-intercom.php.html">CCTV Camera Installation</a></li> -->
                              </ul>
                          </li>
 
-                         <li class="menu-item ">
+                         <!-- <li class="menu-item ">
                              <a href="trainings.php.html">ICT Trainings</a>
-                         </li>
+                         </li> -->
 
-                         <li class="menu-item ">
+                         <!-- <li class="menu-item ">
                              <a href="verbumshop.php.html">Shop</a>
-                         </li>
+                         </li> -->
 
-                         <li class="menu-item ">
+                         <!-- <li class="menu-item ">
                              <a href="blogs.php.html">Blogs</a>
-                         </li>
+                         </li> -->
 
-                         <li class="menu-item "><a href="elibrary.php.html">e-Library</a></li>
+                         <li class="menu-item "><a href="../pages/elibrary.php">Coming Soon</a>
+                         <ul>
+                         <a href="../pages/elibrary.php">e-Library</a>
+                         </ul>
+                         </li>
 
                          <li class="menu-item "><a href="contact.php.html">Contact</a></li>
                      </ul>
