@@ -241,6 +241,11 @@ img {
   text-align: center;
   display: none;
 }
+.iconic{
+  border: 1px;
+  border-radius: 20%;
+  color: #0073b1;
+}
 
 @media (max-width: 767px) {
   .contact-validation-active #success,
@@ -1540,7 +1545,7 @@ img {
 .site-header #navbar > ul li a:hover,
 .site-header #navbar > ul li a:focus {
   text-decoration: none;
-  color: #b00000;
+  color: #b00049;
 }
 
 @media screen and (min-width: 992px) {
